@@ -3,3 +3,8 @@ Name: myproject
 ---
 SilverStripe\Core\Manifest\ModuleManifest:
   project: app
+SilverStripe\Forms\FormField:
+  extensions:
+    - FormFieldExtension
+SilverStripe\View\SSViewer:
+  source_file_comments: true
