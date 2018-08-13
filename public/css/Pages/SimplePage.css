@@ -1,0 +1,33 @@
+.about-heading{
+	text-align: center;
+    line-height: 100px;
+    font-size: 32px;
+}
+
+.about-description{
+	color: gray;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.about-content-wrapper{
+	color: gray;
+}
+
+.about-content-heading{
+	font-size: 28px;
+	color: black;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+
+.about-content{
+	line-height: 25px;
+}
+
+.profile-image{
+	height: 300px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,26 @@
+.home-content-wrapper{
+	top: 250px;
+    position: relative;
+}
+
+.name{
+	text-align: center;
+	font-size: 32px;
+	display: block;
+    color: white;
+    line-height: 50px;
+}
+
+.position{
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+	color: yellow;
+	margin-bottom: 10px;
+}
+
+.bio{
+	color: white;
+	font-size: 16px;
+}

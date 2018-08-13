@@ -1,0 +1,33 @@
+.skill-wrapper{
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.skill-logo img{
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.break{
+	border-top: 1px dotted black;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.skill-heading{
+	margin-top: 30px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.skill-description{
+	padding-top: 20px;
+	text-align: left;
+	line-height: 25px;
+	padding-bottom: 20px;
+}
